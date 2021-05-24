@@ -1,0 +1,1 @@
+python text1.py
